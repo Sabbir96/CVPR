@@ -1,1 +1,1 @@
-Real Time Face Mask Detection using MobileNetV2
+**Real Time Face Mask Detection using MobileNetV2**
